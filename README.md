@@ -8,4 +8,4 @@ https://github.com/LubivD/Snake_game.git
 3. Unpack it.
 4. In command-line or terminal run command:
 
-    $ python Snake.py
+     python Snake.py
