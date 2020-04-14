@@ -240,7 +240,7 @@ while True:
         segments.append(new_segment)
 
         # Shorten the delay
-        # delay -= 0.001  # Also, you can increase game speed!
+        delay -= 0.001  # Also, you can increase game speed!
 
         # Increase the score
         score += 1
